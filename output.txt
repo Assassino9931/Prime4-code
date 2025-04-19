@@ -1,0 +1,1744 @@
+Precompute remainders
+Precompute prime table
+Precompute prime counts
+Precompute prime list
+Starting compute
+x: 9 numerator: 1 denominator: 1 step: 3
+ratio: ~ 1.00000
+
+x: 15 numerator: 1 denominator: 2 step: 2
+ratio: ~ 0.50000
+
+x: 19 numerator: 1 denominator: 2 step: 2
+ratio: ~ 0.50000
+
+x: 23 numerator: 2 denominator: 3 step: 5
+ratio: ~ 0.66667
+
+x: 33 numerator: 3 denominator: 5 step: 7
+ratio: ~ 0.60000
+
+x: 47 numerator: 3 denominator: 7 step: 5
+ratio: ~ 0.42857
+
+x: 57 numerator: 5 denominator: 11 step: 9
+ratio: ~ 0.45455
+
+x: 75 numerator: 6 denominator: 13 step: 11
+ratio: ~ 0.46154
+
+x: 97 numerator: 8 denominator: 19 step: 13
+ratio: ~ 0.42105
+
+x: 123 numerator: 9 denominator: 24 step: 12
+ratio: ~ 0.37500
+
+x: 147 numerator: 12 denominator: 29 step: 19
+ratio: ~ 0.41379
+
+x: 185 numerator: 14 denominator: 36 step: 20
+ratio: ~ 0.38889
+
+x: 225 numerator: 18 denominator: 46 step: 26
+ratio: ~ 0.39130
+
+x: 277 numerator: 21 denominator: 54 step: 30
+ratio: ~ 0.38889
+
+x: 337 numerator: 25 denominator: 69 step: 31
+ratio: ~ 0.36232
+
+x: 399 numerator: 29 denominator: 80 step: 36
+ratio: ~ 0.36250
+
+x: 471 numerator: 34 denominator: 94 step: 42
+ratio: ~ 0.36170
+
+x: 555 numerator: 42 denominator: 115 step: 53
+ratio: ~ 0.36522
+
+x: 661 numerator: 48 denominator: 131 step: 61
+ratio: ~ 0.36641
+
+x: 783 numerator: 57 denominator: 159 step: 69
+ratio: ~ 0.35849
+
+x: 921 numerator: 67 denominator: 188 step: 80
+ratio: ~ 0.35638
+
+x: 1081 numerator: 76 denominator: 220 step: 84
+ratio: ~ 0.34545
+
+x: 1249 numerator: 84 denominator: 253 step: 83
+ratio: ~ 0.33202
+
+x: 1415 numerator: 98 denominator: 294 step: 98
+ratio: ~ 0.33333
+
+x: 1611 numerator: 113 denominator: 324 step: 128
+ratio: ~ 0.34877
+
+x: 1867 numerator: 130 denominator: 380 step: 140
+ratio: ~ 0.34211
+
+x: 2147 numerator: 145 denominator: 432 step: 148
+ratio: ~ 0.33565
+
+x: 2443 numerator: 162 denominator: 490 step: 158
+ratio: ~ 0.33061
+
+x: 2759 numerator: 185 denominator: 553 step: 187
+ratio: ~ 0.33454
+
+x: 3133 numerator: 208 denominator: 634 step: 198
+ratio: ~ 0.32808
+
+x: 3529 numerator: 236 denominator: 712 step: 232
+ratio: ~ 0.33146
+
+x: 3993 numerator: 262 denominator: 801 step: 247
+ratio: ~ 0.32709
+
+x: 4487 numerator: 291 denominator: 898 step: 266
+ratio: ~ 0.32405
+
+x: 5019 numerator: 327 denominator: 1001 step: 307
+ratio: ~ 0.32667
+
+x: 5633 numerator: 367 denominator: 1126 step: 342
+ratio: ~ 0.32593
+
+x: 6317 numerator: 409 denominator: 1251 step: 385
+ratio: ~ 0.32694
+
+x: 7087 numerator: 452 denominator: 1396 step: 412
+ratio: ~ 0.32378
+
+x: 7911 numerator: 497 denominator: 1561 step: 427
+ratio: ~ 0.31839
+
+x: 8765 numerator: 546 denominator: 1730 step: 454
+ratio: ~ 0.31561
+
+x: 9673 numerator: 601 denominator: 1896 step: 508
+ratio: ~ 0.31698
+
+x: 10689 numerator: 665 denominator: 2092 step: 568
+ratio: ~ 0.31788
+
+x: 11825 numerator: 740 denominator: 2318 step: 642
+ratio: ~ 0.31924
+
+x: 13109 numerator: 807 denominator: 2549 step: 679
+ratio: ~ 0.31659
+
+x: 14467 numerator: 889 denominator: 2816 step: 740
+ratio: ~ 0.31570
+
+x: 15947 numerator: 972 denominator: 3079 step: 809
+ratio: ~ 0.31569
+
+x: 17565 numerator: 1072 denominator: 3389 step: 899
+ratio: ~ 0.31632
+
+x: 19363 numerator: 1174 denominator: 3743 step: 953
+ratio: ~ 0.31365
+
+x: 21269 numerator: 1283 denominator: 4093 step: 1039
+ratio: ~ 0.31346
+
+x: 23347 numerator: 1395 denominator: 4465 step: 1115
+ratio: ~ 0.31243
+
+x: 25577 numerator: 1513 denominator: 4882 step: 1170
+ratio: ~ 0.30991
+
+x: 27917 numerator: 1645 denominator: 5317 step: 1263
+ratio: ~ 0.30938
+
+x: 30443 numerator: 1801 denominator: 5790 step: 1414
+ratio: ~ 0.31105
+
+x: 33271 numerator: 1956 denominator: 6298 step: 1526
+ratio: ~ 0.31057
+
+x: 36323 numerator: 2127 denominator: 6857 step: 1651
+ratio: ~ 0.31019
+
+x: 39625 numerator: 2313 denominator: 7459 step: 1793
+ratio: ~ 0.31010
+
+x: 43211 numerator: 2502 denominator: 8093 step: 1915
+ratio: ~ 0.30916
+
+x: 47041 numerator: 2722 denominator: 8828 step: 2060
+ratio: ~ 0.30834
+
+x: 51161 numerator: 2951 denominator: 9564 step: 2240
+ratio: ~ 0.30855
+
+x: 55641 numerator: 3182 denominator: 10376 step: 2352
+ratio: ~ 0.30667
+
+x: 60345 numerator: 3417 denominator: 11181 step: 2487
+ratio: ~ 0.30561
+
+x: 65319 numerator: 3703 denominator: 12107 step: 2705
+ratio: ~ 0.30586
+
+x: 70729 numerator: 4005 denominator: 13080 step: 2940
+ratio: ~ 0.30619
+
+x: 76609 numerator: 4312 denominator: 14116 step: 3132
+ratio: ~ 0.30547
+
+x: 82873 numerator: 4629 denominator: 15211 step: 3305
+ratio: ~ 0.30432
+
+x: 89483 numerator: 4989 denominator: 16404 step: 3552
+ratio: ~ 0.30413
+
+x: 96587 numerator: 5361 denominator: 17627 step: 3817
+ratio: ~ 0.30414
+
+x: 104221 numerator: 5778 denominator: 19000 step: 4112
+ratio: ~ 0.30411
+
+x: 112445 numerator: 6213 denominator: 20451 step: 4401
+ratio: ~ 0.30380
+
+x: 121247 numerator: 6683 denominator: 22001 step: 4731
+ratio: ~ 0.30376
+
+x: 130709 numerator: 7173 denominator: 23637 step: 5055
+ratio: ~ 0.30346
+
+x: 140819 numerator: 7688 denominator: 25385 step: 5367
+ratio: ~ 0.30286
+
+x: 151553 numerator: 8241 denominator: 27256 step: 5708
+ratio: ~ 0.30236
+
+x: 162969 numerator: 8834 denominator: 29245 step: 6091
+ratio: ~ 0.30207
+
+x: 175151 numerator: 9463 denominator: 31391 step: 6461
+ratio: ~ 0.30146
+
+x: 188073 numerator: 10109 denominator: 33597 step: 6839
+ratio: ~ 0.30089
+
+x: 201751 numerator: 10820 denominator: 35955 step: 7325
+ratio: ~ 0.30093
+
+x: 216401 numerator: 11562 denominator: 38466 step: 7782
+ratio: ~ 0.30058
+
+x: 231965 numerator: 12349 denominator: 41092 step: 8304
+ratio: ~ 0.30052
+
+x: 248573 numerator: 13211 denominator: 43959 step: 8885
+ratio: ~ 0.30053
+
+x: 266343 numerator: 14103 denominator: 46999 step: 9413
+ratio: ~ 0.30007
+
+x: 285169 numerator: 15055 denominator: 50190 step: 10030
+ratio: ~ 0.29996
+
+x: 305229 numerator: 16066 denominator: 53631 step: 10633
+ratio: ~ 0.29957
+
+x: 326495 numerator: 17136 denominator: 57178 step: 11366
+ratio: ~ 0.29970
+
+x: 349227 numerator: 18256 denominator: 61002 step: 12022
+ratio: ~ 0.29927
+
+x: 373271 numerator: 19474 denominator: 65096 step: 12800
+ratio: ~ 0.29916
+
+x: 398871 numerator: 20734 denominator: 69376 step: 13560
+ratio: ~ 0.29886
+
+x: 425991 numerator: 22086 denominator: 73966 step: 14378
+ratio: ~ 0.29860
+
+x: 454747 numerator: 23490 denominator: 78765 step: 15195
+ratio: ~ 0.29823
+
+x: 485137 numerator: 24992 denominator: 83831 step: 16137
+ratio: ~ 0.29812
+
+x: 517411 numerator: 26560 denominator: 89169 step: 17071
+ratio: ~ 0.29786
+
+x: 551553 numerator: 28235 denominator: 94861 step: 18079
+ratio: ~ 0.29765
+
+x: 587711 numerator: 29962 denominator: 100830 step: 19018
+ratio: ~ 0.29715
+
+x: 625747 numerator: 31794 denominator: 107120 step: 20056
+ratio: ~ 0.29681
+
+x: 665859 numerator: 33778 denominator: 113795 step: 21317
+ratio: ~ 0.29683
+
+x: 708493 numerator: 35846 denominator: 120788 step: 22596
+ratio: ~ 0.29677
+
+x: 753685 numerator: 38063 denominator: 128259 step: 23993
+ratio: ~ 0.29677
+
+x: 801671 numerator: 40373 denominator: 136058 step: 25434
+ratio: ~ 0.29673
+
+x: 852539 numerator: 42825 denominator: 144395 step: 26905
+ratio: ~ 0.29658
+
+x: 906349 numerator: 45372 denominator: 153155 step: 28333
+ratio: ~ 0.29625
+
+x: 963015 numerator: 48102 denominator: 162436 step: 29972
+ratio: ~ 0.29613
+
+x: 1022959 numerator: 50945 denominator: 172174 step: 31606
+ratio: ~ 0.29589
+
+x: 1086171 numerator: 53970 denominator: 182477 step: 33403
+ratio: ~ 0.29576
+
+x: 1152977 numerator: 57097 denominator: 193279 step: 35109
+ratio: ~ 0.29541
+
+x: 1223195 numerator: 60398 denominator: 204532 step: 37060
+ratio: ~ 0.29530
+
+x: 1297315 numerator: 63909 denominator: 216508 step: 39128
+ratio: ~ 0.29518
+
+x: 1375571 numerator: 67610 denominator: 229136 step: 41304
+ratio: ~ 0.29506
+
+x: 1458179 numerator: 71481 denominator: 242340 step: 43584
+ratio: ~ 0.29496
+
+x: 1545347 numerator: 75567 denominator: 256340 step: 45928
+ratio: ~ 0.29479
+
+x: 1637203 numerator: 79802 denominator: 271040 step: 48168
+ratio: ~ 0.29443
+
+x: 1733539 numerator: 84346 denominator: 286482 step: 50902
+ratio: ~ 0.29442
+
+x: 1835343 numerator: 89049 denominator: 302655 step: 53541
+ratio: ~ 0.29423
+
+x: 1942425 numerator: 93989 denominator: 319594 step: 56362
+ratio: ~ 0.29409
+
+x: 2055149 numerator: 99198 denominator: 337476 step: 59316
+ratio: ~ 0.29394
+
+x: 2173781 numerator: 104702 denominator: 356277 step: 62531
+ratio: ~ 0.29388
+
+x: 2298843 numerator: 110534 denominator: 376067 step: 66069
+ratio: ~ 0.29392
+
+x: 2430981 numerator: 116663 denominator: 396998 step: 69654
+ratio: ~ 0.29386
+
+x: 2570289 numerator: 123006 denominator: 418953 step: 73071
+ratio: ~ 0.29360
+
+x: 2716431 numerator: 129645 denominator: 441849 step: 76731
+ratio: ~ 0.29341
+
+x: 2869893 numerator: 136632 denominator: 465858 step: 80670
+ratio: ~ 0.29329
+
+x: 3031233 numerator: 144073 denominator: 491208 step: 85084
+ratio: ~ 0.29330
+
+x: 3201401 numerator: 151691 denominator: 517693 step: 89071
+ratio: ~ 0.29301
+
+x: 3379543 numerator: 159799 denominator: 545510 step: 93686
+ratio: ~ 0.29294
+
+x: 3566915 numerator: 168344 denominator: 574895 step: 98481
+ratio: ~ 0.29283
+
+x: 3763877 numerator: 177219 denominator: 605365 step: 103511
+ratio: ~ 0.29275
+
+x: 3970899 numerator: 186487 denominator: 637498 step: 108450
+ratio: ~ 0.29253
+
+x: 4187799 numerator: 196214 denominator: 671077 step: 113779
+ratio: ~ 0.29239
+
+x: 4415357 numerator: 206469 denominator: 706404 step: 119472
+ratio: ~ 0.29228
+
+x: 4654301 numerator: 217153 denominator: 743183 step: 125429
+ratio: ~ 0.29219
+
+x: 4905159 numerator: 228324 denominator: 781711 step: 131585
+ratio: ~ 0.29208
+
+x: 5168329 numerator: 240070 denominator: 822171 step: 138109
+ratio: ~ 0.29200
+
+x: 5444547 numerator: 252438 denominator: 864520 step: 145232
+ratio: ~ 0.29200
+
+x: 5735011 numerator: 265327 denominator: 909180 step: 152128
+ratio: ~ 0.29183
+
+x: 6039267 numerator: 278832 denominator: 955767 step: 159561
+ratio: ~ 0.29174
+
+x: 6358389 numerator: 292884 denominator: 1004434 step: 167102
+ratio: ~ 0.29159
+
+x: 6692593 numerator: 307737 denominator: 1055501 step: 175447
+ratio: ~ 0.29156
+
+x: 7043487 numerator: 323091 denominator: 1108612 step: 183752
+ratio: ~ 0.29144
+
+x: 7410991 numerator: 339308 denominator: 1164563 step: 192669
+ratio: ~ 0.29136
+
+x: 7796329 numerator: 356204 denominator: 1223133 step: 201683
+ratio: ~ 0.29122
+
+x: 8199695 numerator: 373943 denominator: 1284159 step: 211613
+ratio: ~ 0.29120
+
+x: 8622921 numerator: 392404 denominator: 1348096 step: 221520
+ratio: ~ 0.29108
+
+x: 9065961 numerator: 411849 denominator: 1415015 step: 232381
+ratio: ~ 0.29106
+
+x: 9530723 numerator: 431938 denominator: 1485054 step: 242698
+ratio: ~ 0.29086
+
+x: 10016119 numerator: 453165 denominator: 1558233 step: 254427
+ratio: ~ 0.29082
+
+x: 10524973 numerator: 475169 denominator: 1634517 step: 266159
+ratio: ~ 0.29071
+
+x: 11057291 numerator: 498232 denominator: 1714263 step: 278665
+ratio: ~ 0.29064
+
+x: 11614621 numerator: 522198 denominator: 1797600 step: 291192
+ratio: ~ 0.29050
+
+x: 12197005 numerator: 547262 denominator: 1884675 step: 304373
+ratio: ~ 0.29037
+
+x: 12805751 numerator: 573467 denominator: 1975298 step: 318570
+ratio: ~ 0.29032
+
+x: 13442891 numerator: 600868 denominator: 2070503 step: 332969
+ratio: ~ 0.29020
+
+x: 14108829 numerator: 629522 denominator: 2169604 step: 348484
+ratio: ~ 0.29016
+
+x: 14805797 numerator: 659346 denominator: 2273006 step: 364378
+ratio: ~ 0.29008
+
+x: 15534553 numerator: 690655 denominator: 2381237 step: 381383
+ratio: ~ 0.29004
+
+x: 16297319 numerator: 723239 denominator: 2494154 step: 398802
+ratio: ~ 0.28997
+
+x: 17094923 numerator: 757135 denominator: 2611785 step: 416755
+ratio: ~ 0.28989
+
+x: 17928433 numerator: 792526 denominator: 2734757 step: 435347
+ratio: ~ 0.28980
+
+x: 18799127 numerator: 829484 denominator: 2863123 step: 454813
+ratio: ~ 0.28971
+
+x: 19708753 numerator: 868094 denominator: 2997055 step: 475321
+ratio: ~ 0.28965
+
+x: 20659395 numerator: 908311 denominator: 3136759 step: 496485
+ratio: ~ 0.28957
+
+x: 21652365 numerator: 950267 denominator: 3282407 step: 518661
+ratio: ~ 0.28950
+
+x: 22689687 numerator: 994063 denominator: 3434414 step: 541838
+ratio: ~ 0.28944
+
+x: 23773363 numerator: 1039656 denominator: 3592889 step: 565735
+ratio: ~ 0.28936
+
+x: 24904833 numerator: 1087139 denominator: 3757978 step: 590578
+ratio: ~ 0.28929
+
+x: 26085989 numerator: 1136734 denominator: 3930369 step: 616567
+ratio: ~ 0.28922
+
+x: 27319123 numerator: 1188291 denominator: 4109889 step: 643275
+ratio: ~ 0.28913
+
+x: 28605673 numerator: 1242028 denominator: 4296778 step: 671334
+ratio: ~ 0.28906
+
+x: 29948341 numerator: 1297971 denominator: 4491543 step: 700341
+ratio: ~ 0.28898
+
+x: 31349023 numerator: 1356258 denominator: 4694480 step: 730552
+ratio: ~ 0.28890
+
+x: 32810127 numerator: 1417155 denominator: 4906038 step: 762582
+ratio: ~ 0.28886
+
+x: 34335291 numerator: 1480477 denominator: 5126777 step: 795131
+ratio: ~ 0.28877
+
+x: 35925553 numerator: 1546466 denominator: 5356578 step: 829286
+ratio: ~ 0.28870
+
+x: 37584125 numerator: 1615094 denominator: 5595634 step: 864742
+ratio: ~ 0.28863
+
+x: 39313609 numerator: 1686377 denominator: 5843903 step: 901605
+ratio: ~ 0.28857
+
+x: 41116819 numerator: 1760707 denominator: 6102970 step: 939858
+ratio: ~ 0.28850
+
+x: 42996535 numerator: 1838276 denominator: 6373070 step: 980034
+ratio: ~ 0.28844
+
+x: 44956603 numerator: 1918774 denominator: 6653949 step: 1021147
+ratio: ~ 0.28837
+
+x: 46998897 numerator: 2002805 denominator: 6945879 step: 1065341
+ratio: ~ 0.28834
+
+x: 49129579 numerator: 2089934 denominator: 7250747 step: 1108989
+ratio: ~ 0.28824
+
+x: 51347557 numerator: 2180899 denominator: 7567132 step: 1156464
+ratio: ~ 0.28821
+
+x: 53660485 numerator: 2275496 denominator: 7896809 step: 1205175
+ratio: ~ 0.28815
+
+x: 56070835 numerator: 2373936 denominator: 8239996 step: 1255748
+ratio: ~ 0.28810
+
+x: 58582331 numerator: 2476178 denominator: 8596761 step: 1307951
+ratio: ~ 0.28804
+
+x: 61198233 numerator: 2582744 denominator: 8968006 step: 1362970
+ratio: ~ 0.28800
+
+x: 63924173 numerator: 2693282 denominator: 9354265 step: 1418863
+ratio: ~ 0.28792
+
+x: 66761899 numerator: 2808210 denominator: 9755801 step: 1477039
+ratio: ~ 0.28785
+
+x: 69715977 numerator: 2927774 denominator: 10173297 step: 1537799
+ratio: ~ 0.28779
+
+x: 72791575 numerator: 3052221 denominator: 10607323 step: 1601561
+ratio: ~ 0.28775
+
+x: 75994697 numerator: 3181439 denominator: 11058557 step: 1667199
+ratio: ~ 0.28769
+
+x: 79329095 numerator: 3315893 denominator: 11528661 step: 1734911
+ratio: ~ 0.28762
+
+x: 82798917 numerator: 3455378 denominator: 12016083 step: 1805429
+ratio: ~ 0.28756
+
+x: 86409775 numerator: 3600462 denominator: 12523512 step: 1878336
+ratio: ~ 0.28750
+
+x: 90166447 numerator: 3751213 denominator: 13050655 step: 1954197
+ratio: ~ 0.28743
+
+x: 94074841 numerator: 3907827 denominator: 13597841 step: 2033467
+ratio: ~ 0.28739
+
+x: 98141775 numerator: 4070543 denominator: 14166316 step: 2115856
+ratio: ~ 0.28734
+
+x: 102373487 numerator: 4239765 denominator: 14757294 step: 2201766
+ratio: ~ 0.28730
+
+x: 106777019 numerator: 4415269 denominator: 15371318 step: 2289758
+ratio: ~ 0.28724
+
+x: 111356535 numerator: 4597517 denominator: 16008828 step: 2381240
+ratio: ~ 0.28719
+
+x: 116119015 numerator: 4786988 denominator: 16671836 step: 2476116
+ratio: ~ 0.28713
+
+x: 121071247 numerator: 4984007 denominator: 17360756 step: 2575272
+ratio: ~ 0.28708
+
+x: 126221791 numerator: 5188070 denominator: 18074945 step: 2677335
+ratio: ~ 0.28703
+
+x: 131576461 numerator: 5399890 denominator: 18816902 step: 2782658
+ratio: ~ 0.28697
+
+x: 137141777 numerator: 5620229 denominator: 19587752 step: 2893164
+ratio: ~ 0.28693
+
+x: 142928105 numerator: 5848725 denominator: 20387783 step: 3007117
+ratio: ~ 0.28687
+
+x: 148942339 numerator: 6085570 denominator: 21217719 step: 3124561
+ratio: ~ 0.28682
+
+x: 155191461 numerator: 6332242 denominator: 22080197 step: 3248771
+ratio: ~ 0.28678
+
+x: 161689003 numerator: 6588017 denominator: 22975163 step: 3376905
+ratio: ~ 0.28675
+
+x: 168442813 numerator: 6853269 denominator: 23904144 step: 3508932
+ratio: ~ 0.28670
+
+x: 175460677 numerator: 7128385 denominator: 24867483 step: 3646057
+ratio: ~ 0.28665
+
+x: 182752791 numerator: 7413917 denominator: 25868618 step: 3787050
+ratio: ~ 0.28660
+
+x: 190326891 numerator: 7709975 denominator: 26906098 step: 3933802
+ratio: ~ 0.28655
+
+x: 198194495 numerator: 8017606 denominator: 27984388 step: 4086036
+ratio: ~ 0.28650
+
+x: 206366567 numerator: 8336159 denominator: 29101429 step: 4243207
+ratio: ~ 0.28645
+
+x: 214852981 numerator: 8666826 denominator: 30260483 step: 4406821
+ratio: ~ 0.28641
+
+x: 223666623 numerator: 9009442 denominator: 31462111 step: 4575657
+ratio: ~ 0.28636
+
+x: 232817937 numerator: 9364951 denominator: 32709163 step: 4750641
+ratio: ~ 0.28631
+
+x: 242319219 numerator: 9733644 denominator: 34001353 step: 4933223
+ratio: ~ 0.28627
+
+x: 252185665 numerator: 10115970 denominator: 35342257 step: 5121623
+ratio: ~ 0.28623
+
+x: 262428911 numerator: 10511699 denominator: 36731941 step: 5314855
+ratio: ~ 0.28617
+
+x: 273058621 numerator: 10922560 denominator: 38174158 step: 5516082
+ratio: ~ 0.28612
+
+x: 284090785 numerator: 11348165 denominator: 39667810 step: 5724850
+ratio: ~ 0.28608
+
+x: 295540485 numerator: 11789532 denominator: 41216786 step: 5941342
+ratio: ~ 0.28604
+
+x: 307423169 numerator: 12246882 denominator: 42821837 step: 6165691
+ratio: ~ 0.28600
+
+x: 319754551 numerator: 12721227 denominator: 44486346 step: 6398562
+ratio: ~ 0.28596
+
+x: 332551675 numerator: 13212714 denominator: 46211909 step: 6638947
+ratio: ~ 0.28592
+
+x: 345829569 numerator: 13721296 denominator: 47998519 step: 6886665
+ratio: ~ 0.28587
+
+x: 359602899 numerator: 14249256 denominator: 49851048 step: 7145976
+ratio: ~ 0.28584
+
+x: 373894851 numerator: 14795980 denominator: 51771601 step: 7412319
+ratio: ~ 0.28579
+
+x: 388719489 numerator: 15361683 denominator: 53758964 step: 7687768
+ratio: ~ 0.28575
+
+x: 404095025 numerator: 15947880 denominator: 55819640 step: 7971880
+ratio: ~ 0.28570
+
+x: 420038785 numerator: 16555433 denominator: 57954526 step: 8267206
+ratio: ~ 0.28566
+
+x: 436573197 numerator: 17185051 denominator: 60165026 step: 8575178
+ratio: ~ 0.28563
+
+x: 453723553 numerator: 17836708 denominator: 62454869 step: 8891963
+ratio: ~ 0.28559
+
+x: 471507479 numerator: 18511639 denominator: 64827238 step: 9219318
+ratio: ~ 0.28555
+
+x: 489946115 numerator: 19210703 denominator: 67284090 step: 9558722
+ratio: ~ 0.28552
+
+x: 509063559 numerator: 19935022 denominator: 69830196 step: 9909892
+ratio: ~ 0.28548
+
+x: 528883343 numerator: 20684397 denominator: 72465967 step: 10271621
+ratio: ~ 0.28544
+
+x: 549426585 numerator: 21459447 denominator: 75194096 step: 10643692
+ratio: ~ 0.28539
+
+x: 570713969 numerator: 22263225 denominator: 78018129 step: 11034771
+ratio: ~ 0.28536
+
+x: 592783511 numerator: 23094070 denominator: 80941463 step: 11434817
+ratio: ~ 0.28532
+
+x: 615653145 numerator: 23953830 denominator: 83967443 step: 11847877
+ratio: ~ 0.28528
+
+x: 639348899 numerator: 24845297 denominator: 87101530 step: 12279658
+ratio: ~ 0.28525
+
+x: 663908215 numerator: 25766807 denominator: 90344605 step: 12722623
+ratio: ~ 0.28521
+
+x: 689353461 numerator: 26720861 denominator: 93702212 step: 13181232
+ratio: ~ 0.28517
+
+x: 715715925 numerator: 27708157 denominator: 97176975 step: 13655653
+ratio: ~ 0.28513
+
+x: 743027231 numerator: 28730131 denominator: 100772594 step: 14147930
+ratio: ~ 0.28510
+
+x: 771323091 numerator: 29787215 denominator: 104495002 step: 14653858
+ratio: ~ 0.28506
+
+x: 800630807 numerator: 30879709 denominator: 108343862 step: 15174974
+ratio: ~ 0.28502
+
+x: 830980755 numerator: 32010975 denominator: 112325997 step: 15717903
+ratio: ~ 0.28498
+
+x: 862416561 numerator: 33180831 denominator: 116447028 step: 16276296
+ratio: ~ 0.28494
+
+x: 894969153 numerator: 34391716 denominator: 120710956 step: 16855908
+ratio: ~ 0.28491
+
+x: 928680969 numerator: 35643021 denominator: 125120035 step: 17452049
+ratio: ~ 0.28487
+
+x: 963585067 numerator: 36937217 denominator: 129680032 step: 18068836
+ratio: ~ 0.28483
+
+x: 999722739 numerator: 38276060 denominator: 134396244 step: 18707996
+ratio: ~ 0.28480
+
+x: 1037138731 numerator: 39661243 denominator: 139275321 step: 19369651
+ratio: ~ 0.28477
+
+x: 1075878033 numerator: 41093876 denominator: 144320767 step: 20054737
+ratio: ~ 0.28474
+
+x: 1115987507 numerator: 42574667 denominator: 149538233 step: 20760435
+ratio: ~ 0.28471
+
+x: 1157508377 numerator: 44106749 denominator: 154937831 step: 21489165
+ratio: ~ 0.28467
+
+x: 1200486707 numerator: 45690408 denominator: 160518968 step: 22242664
+ratio: ~ 0.28464
+
+x: 1244972035 numerator: 47327370 denominator: 166290609 step: 23018871
+ratio: ~ 0.28461
+
+x: 1291009777 numerator: 49018672 denominator: 172254418 step: 23820270
+ratio: ~ 0.28457
+
+x: 1338650317 numerator: 50767600 denominator: 178420939 step: 24649461
+ratio: ~ 0.28454
+
+x: 1387949239 numerator: 52576028 denominator: 184796736 step: 25507376
+ratio: ~ 0.28451
+
+x: 1438963991 numerator: 54445127 denominator: 191387106 step: 26393402
+ratio: ~ 0.28448
+
+x: 1491750795 numerator: 56375480 denominator: 198197497 step: 27304423
+ratio: ~ 0.28444
+
+x: 1546359641 numerator: 58370058 denominator: 205235984 step: 28244248
+ratio: ~ 0.28440
+
+x: 1602848137 numerator: 60432320 denominator: 212511507 step: 29217773
+ratio: ~ 0.28437
+
+x: 1661283683 numerator: 62564225 denominator: 220030788 step: 30226112
+ratio: ~ 0.28434
+
+x: 1721735907 numerator: 64765467 denominator: 227799546 step: 31262322
+ratio: ~ 0.28431
+
+x: 1784260551 numerator: 67040965 denominator: 235828212 step: 32335648
+ratio: ~ 0.28428
+
+x: 1848931847 numerator: 69391164 denominator: 244123486 step: 33441170
+ratio: ~ 0.28425
+
+x: 1915814187 numerator: 71819699 denominator: 252695199 step: 34583597
+ratio: ~ 0.28421
+
+x: 1984981381 numerator: 74329451 denominator: 261549365 step: 35768439
+ratio: ~ 0.28419
+
+x: 2056518259 numerator: 76919253 denominator: 270696527 step: 36980485
+ratio: ~ 0.28415
+
+x: 2130479229 numerator: 79595388 denominator: 280146589 step: 38234963
+ratio: ~ 0.28412
+
+x: 2206949155 numerator: 82360162 denominator: 289907457 step: 39533191
+ratio: ~ 0.28409
+
+x: 2286015537 numerator: 85214893 denominator: 299986936 step: 40872636
+ratio: ~ 0.28406
+
+x: 2367760809 numerator: 88162961 denominator: 310400581 step: 42251263
+ratio: ~ 0.28403
+
+x: 2452263335 numerator: 91208333 denominator: 321156042 step: 43677290
+ratio: ~ 0.28400
+
+x: 2539617915 numerator: 94351929 denominator: 332259274 step: 45148442
+ratio: ~ 0.28397
+
+x: 2629914799 numerator: 97598718 denominator: 343726157 step: 46668715
+ratio: ~ 0.28394
+
+x: 2723252229 numerator: 100950305 denominator: 355569619 step: 48231601
+ratio: ~ 0.28391
+
+x: 2819715431 numerator: 104411147 denominator: 367798813 step: 49845775
+ratio: ~ 0.28388
+
+x: 2919406981 numerator: 107984280 denominator: 380424947 step: 51512173
+ratio: ~ 0.28385
+
+(using estimates) x: 3022431327 numerator: 111476299 denominator: 393463704 step: 52441492
+ratio: ~ 0.28332
+
+(using estimates) x: 3127314311 numerator: 115221646 denominator: 406719885 step: 54166699
+ratio: ~ 0.28329
+
+(using estimates) x: 3235647709 numerator: 119086522 denominator: 420400587 step: 55945501
+ratio: ~ 0.28327
+
+(using estimates) x: 3347538711 numerator: 123074661 denominator: 434517960 step: 57780684
+ratio: ~ 0.28324
+
+(using estimates) x: 3463100079 numerator: 127188729 denominator: 449083572 step: 59671344
+ratio: ~ 0.28322
+
+(using estimates) x: 3582442767 numerator: 131432336 denominator: 464109150 step: 61620194
+ratio: ~ 0.28319
+
+(using estimates) x: 3705683155 numerator: 135810971 denominator: 479613719 step: 63630165
+ratio: ~ 0.28317
+
+(using estimates) x: 3832943485 numerator: 140326951 denominator: 495607424 step: 65700380
+ratio: ~ 0.28314
+
+(using estimates) x: 3964344245 numerator: 144986842 denominator: 512109522 step: 67837846
+ratio: ~ 0.28312
+
+(using estimates) x: 4100019937 numerator: 149791794 denominator: 529135390 step: 70031786
+ratio: ~ 0.28309
+
+(using estimates) x: 4240083509 numerator: 154749320 denominator: 546692103 step: 72305177
+ratio: ~ 0.28306
+
+(using estimates) x: 4384693863 numerator: 159860096 denominator: 564798517 step: 74641867
+ratio: ~ 0.28304
+
+(using estimates) x: 4533977597 numerator: 165132772 denominator: 583477828 step: 77053260
+ratio: ~ 0.28301
+
+(using estimates) x: 4688084117 numerator: 170569142 denominator: 602740764 step: 79535804
+ratio: ~ 0.28299
+
+(using estimates) x: 4847155725 numerator: 176176875 denominator: 622607186 step: 82100314
+ratio: ~ 0.28297
+
+(using estimates) x: 5011356353 numerator: 181956732 denominator: 643098404 step: 84728524
+ratio: ~ 0.28294
+
+(using estimates) x: 5180813401 numerator: 187917677 denominator: 664222761 step: 87447947
+ratio: ~ 0.28291
+
+(using estimates) x: 5355709295 numerator: 194063904 denominator: 686005598 step: 90250018
+ratio: ~ 0.28289
+
+(using estimates) x: 5536209331 numerator: 200400997 denominator: 708468642 step: 93135346
+ratio: ~ 0.28287
+
+(using estimates) x: 5722480023 numerator: 206931616 denominator: 731621361 step: 96105103
+ratio: ~ 0.28284
+
+(using estimates) x: 5914690229 numerator: 213666689 denominator: 755499913 step: 99166843
+ratio: ~ 0.28281
+
+(using estimates) x: 6113023915 numerator: 220608020 denominator: 780112652 step: 102319428
+ratio: ~ 0.28279
+
+(using estimates) x: 6317662771 numerator: 227761765 denominator: 805481535 step: 105565525
+ratio: ~ 0.28276
+
+(using estimates) x: 6528793821 numerator: 235139306 denominator: 831639819 step: 108917405
+ratio: ~ 0.28274
+
+(using estimates) x: 6746628631 numerator: 242741998 denominator: 858601451 step: 112366541
+ratio: ~ 0.28272
+
+(using estimates) x: 6971361713 numerator: 250578887 denominator: 886392794 step: 115922754
+ratio: ~ 0.28270
+
+(using estimates) x: 7203207221 numerator: 258456561 denominator: 915040300 step: 118785944
+ratio: ~ 0.28245
+
+(using estimates) x: 7440779109 numerator: 266717826 denominator: 944366399 step: 122504905
+ratio: ~ 0.28243
+
+(using estimates) x: 7685788919 numerator: 275232566 denominator: 974589223 step: 126341041
+ratio: ~ 0.28241
+
+(using estimates) x: 7938471001 numerator: 284004180 denominator: 1005726701 step: 130290019
+ratio: ~ 0.28239
+
+(using estimates) x: 8199051039 numerator: 293040079 denominator: 1037807189 step: 134353127
+ratio: ~ 0.28236
+
+(using estimates) x: 8467757293 numerator: 302348607 denominator: 1070859845 step: 138534583
+ratio: ~ 0.28234
+
+(using estimates) x: 8744826459 numerator: 311940460 denominator: 1104914428 step: 142847412
+ratio: ~ 0.28232
+
+(using estimates) x: 9030521283 numerator: 321821224 denominator: 1139999100 step: 147285796
+ratio: ~ 0.28230
+
+(using estimates) x: 9325092875 numerator: 331998118 denominator: 1176142351 step: 151850121
+ratio: ~ 0.28228
+
+(using estimates) x: 9628793117 numerator: 342481633 denominator: 1213372567 step: 156553965
+ratio: ~ 0.28226
+
+(using estimates) x: 9941901047 numerator: 353278218 denominator: 1251721559 step: 161391313
+ratio: ~ 0.28223
+
+(using estimates) x: 10264683673 numerator: 364400448 denominator: 1291229088 step: 166372704
+ratio: ~ 0.28221
+
+(using estimates) x: 10597429081 numerator: 375854629 denominator: 1331918225 step: 171500291
+ratio: ~ 0.28219
+
+(using estimates) x: 10940429663 numerator: 387650885 denominator: 1373823530 step: 176780010
+ratio: ~ 0.28217
+
+(using estimates) x: 11293989683 numerator: 399601561 denominator: 1416988920 step: 181417324
+ratio: ~ 0.28201
+
+(using estimates) x: 11656824331 numerator: 412051097 denominator: 1461240843 step: 186963545
+ratio: ~ 0.28199
+
+(using estimates) x: 12030751421 numerator: 424871368 denominator: 1506812135 step: 192673337
+ratio: ~ 0.28197
+
+(using estimates) x: 12416098095 numerator: 438069581 denominator: 1553732728 step: 198545596
+ratio: ~ 0.28195
+
+(using estimates) x: 12813189287 numerator: 451656647 denominator: 1602043878 step: 204582710
+ratio: ~ 0.28193
+
+(using estimates) x: 13222354707 numerator: 465647695 denominator: 1651783742 step: 210807038
+ratio: ~ 0.28191
+
+(using estimates) x: 13643968783 numerator: 480050417 denominator: 1702992851 step: 217208817
+ratio: ~ 0.28189
+
+(using estimates) x: 14078386417 numerator: 494877031 denominator: 1755718424 step: 223789700
+ratio: ~ 0.28187
+
+(using estimates) x: 14525965817 numerator: 510137602 denominator: 1809990690 step: 230559718
+ratio: ~ 0.28185
+
+(using estimates) x: 14987085253 numerator: 525847472 denominator: 1865858590 step: 237531298
+ratio: ~ 0.28183
+
+(using estimates) x: 15462147849 numerator: 542018566 denominator: 1923369118 step: 244705146
+ratio: ~ 0.28181
+
+(using estimates) x: 15951558141 numerator: 558661021 denominator: 1982567931 step: 252076153
+ratio: ~ 0.28179
+
+(using estimates) x: 16455710447 numerator: 575793510 denominator: 2043502730 step: 259671310
+ratio: ~ 0.28177
+
+(using estimates) x: 16975053067 numerator: 593421965 denominator: 2106217246 step: 267470614
+ratio: ~ 0.28175
+
+(using estimates) x: 17509994295 numerator: 611565862 denominator: 2170771733 step: 275491715
+ratio: ~ 0.28173
+
+(using estimates) x: 18060977725 numerator: 630236006 denominator: 2237201153 step: 283742871
+ratio: ~ 0.28171
+
+(using estimates) x: 18628463467 numerator: 649449453 denominator: 2305570386 step: 292227426
+ratio: ~ 0.28169
+
+(using estimates) x: 19212918319 numerator: 669025782 denominator: 2375923749 step: 300179379
+ratio: ~ 0.28159
+
+(using estimates) x: 19813277077 numerator: 689315084 denominator: 2448131542 step: 309128794
+ratio: ~ 0.28157
+
+(using estimates) x: 20431534665 numerator: 710189894 denominator: 2522433663 step: 318325913
+ratio: ~ 0.28155
+
+(using estimates) x: 21068186491 numerator: 731664987 denominator: 2598879748 step: 327780200
+ratio: ~ 0.28153
+
+(using estimates) x: 21723746891 numerator: 753758511 denominator: 2677534190 step: 337499854
+ratio: ~ 0.28151
+
+(using estimates) x: 22398746599 numerator: 776490599 denominator: 2758464208 step: 347498188
+ratio: ~ 0.28149
+
+(using estimates) x: 23093742975 numerator: 799679368 denominator: 2841723405 step: 356994067
+ratio: ~ 0.28141
+
+(using estimates) x: 23807731109 numerator: 823674496 denominator: 2927188676 step: 367509308
+ratio: ~ 0.28139
+
+(using estimates) x: 24542749725 numerator: 848358301 denominator: 3015100410 step: 378332794
+ratio: ~ 0.28137
+
+(using estimates) x: 25299415313 numerator: 873748034 denominator: 3105532718 step: 389459418
+ratio: ~ 0.28135
+
+(using estimates) x: 26078334149 numerator: 899864556 denominator: 3198552440 step: 400905784
+ratio: ~ 0.28133
+
+(using estimates) x: 26880145717 numerator: 926722121 denominator: 3294225935 step: 412662549
+ratio: ~ 0.28132
+
+(using estimates) x: 27705470815 numerator: 954342783 denominator: 3392623588 step: 424747544
+ratio: ~ 0.28130
+
+(using estimates) x: 28554965903 numerator: 982751529 denominator: 3493835482 step: 437170634
+ratio: ~ 0.28128
+
+(using estimates) x: 29429307171 numerator: 1011968335 denominator: 3597921600 step: 449951740
+ratio: ~ 0.28126
+
+(using estimates) x: 30329210651 numerator: 1042008286 denominator: 3704964387 step: 463068757
+ratio: ~ 0.28125
+
+(using estimates) x: 31255348165 numerator: 1072706920 denominator: 3815045899 step: 475781781
+ratio: ~ 0.28118
+
+(using estimates) x: 32206911727 numerator: 1104417094 denominator: 3928060851 step: 489607525
+ratio: ~ 0.28116
+
+(using estimates) x: 33186126777 numerator: 1137020478 denominator: 4044267018 step: 503814894
+ratio: ~ 0.28114
+
+(using estimates) x: 34193756565 numerator: 1170543491 denominator: 4163762640 step: 518411324
+ratio: ~ 0.28113
+
+(using estimates) x: 35230579213 numerator: 1205008350 denominator: 4286615440 step: 533417960
+ratio: ~ 0.28111
+
+(using estimates) x: 36297415133 numerator: 1240439417 denominator: 4412924334 step: 548833334
+ratio: ~ 0.28109
+
+(using estimates) x: 37395081801 numerator: 1276870329 denominator: 4542794246 step: 564687070
+ratio: ~ 0.28108
+
+(using estimates) x: 38524455941 numerator: 1314320087 denominator: 4676309344 step: 580971004
+ratio: ~ 0.28106
+
+(using estimates) x: 39686397949 numerator: 1352819134 denominator: 4813576979 step: 597699557
+ratio: ~ 0.28104
+
+(using estimates) x: 40881797063 numerator: 1392391668 denominator: 4954682344 step: 614884328
+ratio: ~ 0.28103
+
+(using estimates) x: 42111565719 numerator: 1433071333 denominator: 5099736937 step: 632548395
+ratio: ~ 0.28101
+
+(using estimates) x: 43376662509 numerator: 1474686842 denominator: 5248852339 step: 649895029
+ratio: ~ 0.28095
+
+(using estimates) x: 44676452567 numerator: 1517607501 denominator: 5401929389 step: 668500615
+ratio: ~ 0.28094
+
+(using estimates) x: 46013453797 numerator: 1561720576 denominator: 5559271300 step: 687611004
+ratio: ~ 0.28092
+
+(using estimates) x: 47388675805 numerator: 1606864523 denominator: 5720997848 step: 706460244
+ratio: ~ 0.28087
+
+(using estimates) x: 48801596293 numerator: 1653403393 denominator: 5887035827 step: 726577745
+ratio: ~ 0.28085
+
+(using estimates) x: 50254751783 numerator: 1701235251 denominator: 6057670006 step: 747270998
+ratio: ~ 0.28084
+
+(using estimates) x: 51749293779 numerator: 1750379819 denominator: 6233017328 step: 768501948
+ratio: ~ 0.28082
+
+(using estimates) x: 53286297675 numerator: 1800885278 denominator: 6413225565 step: 790315547
+ratio: ~ 0.28081
+
+(using estimates) x: 54866928769 numerator: 1852781261 denominator: 6598410611 step: 812714433
+ratio: ~ 0.28079
+
+(using estimates) x: 56492357635 numerator: 1906104189 denominator: 6788701578 step: 835715178
+ratio: ~ 0.28078
+
+(using estimates) x: 58163787991 numerator: 1960898740 denominator: 6984238292 step: 859356668
+ratio: ~ 0.28076
+
+(using estimates) x: 59882501327 numerator: 2017001011 denominator: 7185163966 step: 882840078
+ratio: ~ 0.28072
+
+(using estimates) x: 61648181483 numerator: 2074785233 denominator: 7391422697 step: 907718235
+ratio: ~ 0.28070
+
+(using estimates) x: 63463617953 numerator: 2134150222 denominator: 7603334893 step: 933265995
+ratio: ~ 0.28069
+
+(using estimates) x: 65330149943 numerator: 2195142502 denominator: 7821049878 step: 959520130
+ratio: ~ 0.28067
+
+(using estimates) x: 67249190203 numerator: 2257603725 denominator: 8044735206 step: 985679694
+ratio: ~ 0.28063
+
+(using estimates) x: 69220549591 numerator: 2321913225 denominator: 8274339439 step: 1013313461
+ratio: ~ 0.28062
+
+(using estimates) x: 71247176513 numerator: 2387778517 denominator: 8510215290 step: 1040898778
+ratio: ~ 0.28058
+
+(using estimates) x: 73328974069 numerator: 2455579720 denominator: 8752339775 step: 1069979105
+ratio: ~ 0.28056
+
+(using estimates) x: 75468932279 numerator: 2525225742 denominator: 9001047222 step: 1099855746
+ratio: ~ 0.28055
+
+(using estimates) x: 77668643771 numerator: 2596755428 denominator: 9256505480 step: 1130516232
+ratio: ~ 0.28053
+
+(using estimates) x: 79929676235 numerator: 2670033477 denominator: 9518907048 step: 1161226860
+ratio: ~ 0.28050
+
+(using estimates) x: 82252129955 numerator: 2745435897 denominator: 9788239304 step: 1193504284
+ratio: ~ 0.28048
+
+(using estimates) x: 84639138523 numerator: 2822678285 denominator: 10064856743 step: 1225856397
+ratio: ~ 0.28045
+
+(using estimates) x: 87090851317 numerator: 2902152932 denominator: 10348775769 step: 1259835959
+ratio: ~ 0.28043
+
+(using estimates) x: 89610523235 numerator: 2983764593 denominator: 10640350966 step: 1294707406
+ratio: ~ 0.28042
+
+(using estimates) x: 92199938047 numerator: 3067578282 denominator: 10939784971 step: 1330528157
+ratio: ~ 0.28041
+
+(using estimates) x: 94860994361 numerator: 3153640391 denominator: 11247283797 step: 1367277767
+ratio: ~ 0.28039
+
+(using estimates) x: 97595549895 numerator: 3242009872 denominator: 11563053753 step: 1404985735
+ratio: ~ 0.28038
+
+(using estimates) x: 100405521365 numerator: 3332749873 denominator: 11887297240 step: 1443702252
+ratio: ~ 0.28036
+
+(using estimates) x: 103292925869 numerator: 3425724296 denominator: 12220246238 step: 1482650946
+ratio: ~ 0.28033
+
+(using estimates) x: 106258227761 numerator: 3521337499 denominator: 12561944605 step: 1523405391
+ratio: ~ 0.28032
+
+(using estimates) x: 109305038543 numerator: 3619304442 denominator: 12912789587 step: 1564428181
+ratio: ~ 0.28029
+
+(using estimates) x: 112433894905 numerator: 3720030864 denominator: 13272814861 step: 1607308595
+ratio: ~ 0.28027
+
+(using estimates) x: 115648512095 numerator: 3823436651 denominator: 13642446096 step: 1651300508
+ratio: ~ 0.28026
+
+(using estimates) x: 118951113111 numerator: 3929599065 denominator: 14021938284 step: 1696457976
+ratio: ~ 0.28025
+
+(using estimates) x: 122344029063 numerator: 4038577739 denominator: 14411525491 step: 1742785465
+ratio: ~ 0.28023
+
+(using estimates) x: 125829599993 numerator: 4150456254 denominator: 14811480373 step: 1790344643
+ratio: ~ 0.28022
+
+(using estimates) x: 129410289279 numerator: 4265094034 denominator: 15222063394 step: 1838312742
+ratio: ~ 0.28019
+
+(using estimates) x: 133086914763 numerator: 4382729993 denominator: 15643360034 step: 1887559938
+ratio: ~ 0.28017
+
+(using estimates) x: 136862034639 numerator: 4503620013 denominator: 16075642874 step: 1938837178
+ratio: ~ 0.28015
+
+(using estimates) x: 140739708995 numerator: 4627509785 denominator: 16519363222 step: 1990675918
+ratio: ~ 0.28013
+
+(using estimates) x: 144721060831 numerator: 4754815383 denominator: 16974629369 step: 2044632163
+ratio: ~ 0.28011
+
+(using estimates) x: 148810325157 numerator: 4885470237 denominator: 17441906479 step: 2099974469
+ratio: ~ 0.28010
+
+(using estimates) x: 153010274095 numerator: 5019374385 denominator: 17921524503 step: 2155973037
+ratio: ~ 0.28008
+
+(using estimates) x: 157322220169 numerator: 5156940986 denominator: 18413580803 step: 2214183141
+ratio: ~ 0.28006
+
+(using estimates) x: 161750586451 numerator: 5298118573 denominator: 18918578528 step: 2273895764
+ratio: ~ 0.28005
+
+(using estimates) x: 166298377979 numerator: 5442810179 denominator: 19436849902 step: 2334390814
+ratio: ~ 0.28003
+
+(using estimates) x: 170967159607 numerator: 5591229596 denominator: 19968531289 step: 2396387095
+ratio: ~ 0.28000
+
+(using estimates) x: 175759933797 numerator: 5743685313 denominator: 20513968848 step: 2460772404
+ratio: ~ 0.27999
+
+(using estimates) x: 180681478605 numerator: 5899927785 denominator: 21073685858 step: 2526025282
+ratio: ~ 0.27997
+
+(using estimates) x: 185733529169 numerator: 6060400393 denominator: 21647861652 step: 2593739920
+ratio: ~ 0.27995
+
+(using estimates) x: 190921009009 numerator: 6225051603 denominator: 22237027230 step: 2663179182
+ratio: ~ 0.27994
+
+(using estimates) x: 196247367373 numerator: 6393782040 denominator: 22841550454 step: 2733577706
+ratio: ~ 0.27992
+
+(using estimates) x: 201714522785 numerator: 6566855884 denominator: 23461631693 step: 2805791843
+ratio: ~ 0.27990
+
+(using estimates) x: 207326106471 numerator: 6744583935 denominator: 24097685676 step: 2880650064
+ratio: ~ 0.27989
+
+(using estimates) x: 213087406599 numerator: 6926719809 denominator: 24750265245 step: 2956613991
+ratio: ~ 0.27986
+
+(using estimates) x: 219000634581 numerator: 7113725605 denominator: 25419605514 step: 3035296906
+ratio: ~ 0.27985
+
+(using estimates) x: 225071228393 numerator: 7305372201 denominator: 26106301810 step: 3115186994
+ratio: ~ 0.27983
+
+(using estimates) x: 231301602381 numerator: 7501929967 denominator: 26810618060 step: 3197101808
+ratio: ~ 0.27981
+
+(using estimates) x: 237695805997 numerator: 7703700583 denominator: 27532943338 step: 3281858994
+ratio: ~ 0.27980
+
+(using estimates) x: 244259523985 numerator: 7910485165 denominator: 28273950277 step: 3367990383
+ratio: ~ 0.27978
+
+(using estimates) x: 250995504751 numerator: 8122743823 denominator: 29033897492 step: 3457077800
+ratio: ~ 0.27977
+
+(using estimates) x: 257909660351 numerator: 8340258853 denominator: 29813434196 step: 3547601216
+ratio: ~ 0.27975
+
+(using estimates) x: 265004862783 numerator: 8563327438 denominator: 30612853748 step: 3640456004
+ratio: ~ 0.27973
+
+(using estimates) x: 272285774791 numerator: 8792069467 denominator: 31432654822 step: 3735623046
+ratio: ~ 0.27971
+
+(using estimates) x: 279757020883 numerator: 9026823130 denominator: 32273343584 step: 3833948936
+ratio: ~ 0.27970
+
+(using estimates) x: 287424918755 numerator: 9267392903 denominator: 33135587984 step: 3933983628
+ratio: ~ 0.27968
+
+(using estimates) x: 295292886011 numerator: 9514269275 denominator: 34019757559 step: 4037319541
+ratio: ~ 0.27967
+
+(using estimates) x: 303367525093 numerator: 9767450632 denominator: 34926550682 step: 4143251846
+ratio: ~ 0.27966
+
+(using estimates) x: 311654028785 numerator: 10026708861 denominator: 35856536337 step: 4250299107
+ratio: ~ 0.27963
+
+(using estimates) x: 320154626999 numerator: 10292869778 denominator: 36809929093 step: 4361550019
+ratio: ~ 0.27962
+
+(using estimates) x: 328877727037 numerator: 10565810635 denominator: 37787639237 step: 4475603303
+ratio: ~ 0.27961
+
+(using estimates) x: 337828933643 numerator: 10845487139 denominator: 38790269883 step: 4591678673
+ratio: ~ 0.27959
+
+(using estimates) x: 347012290989 numerator: 11132242515 denominator: 39818252051 step: 4710718009
+ratio: ~ 0.27958
+
+(using estimates) x: 356433727007 numerator: 11426417312 denominator: 40872194576 step: 4833474672
+ratio: ~ 0.27956
+
+(using estimates) x: 366100676351 numerator: 11727862412 denominator: 41952917376 step: 4958532272
+ratio: ~ 0.27955
+
+(using estimates) x: 376017740895 numerator: 12036885775 denominator: 43060880296 step: 5086662804
+ratio: ~ 0.27953
+
+(using estimates) x: 386191066503 numerator: 12353486162 denominator: 44196748643 step: 5217196005
+ratio: ~ 0.27951
+
+(using estimates) x: 396625458513 numerator: 12678382596 denominator: 45361011987 step: 5352518397
+ratio: ~ 0.27950
+
+(using estimates) x: 407330495307 numerator: 13011489636 denominator: 46554723372 step: 5491235172
+ratio: ~ 0.27949
+
+(using estimates) x: 418312965651 numerator: 13352992923 denominator: 47778579228 step: 5633392464
+ratio: ~ 0.27948
+
+(using estimates) x: 429579750579 numerator: 13702900306 denominator: 49033330361 step: 5778270863
+ratio: ~ 0.27946
+
+(using estimates) x: 441136292305 numerator: 14061370767 denominator: 50319522457 step: 5925960611
+ratio: ~ 0.27944
+
+(using estimates) x: 452988213527 numerator: 14428954665 denominator: 51637757819 step: 6078060841
+ratio: ~ 0.27943
+
+(using estimates) x: 465144335209 numerator: 14805725733 denominator: 52988984395 step: 6233918537
+ratio: ~ 0.27941
+
+(using estimates) x: 477612172283 numerator: 15191893467 denominator: 54373982199 step: 6393591669
+ratio: ~ 0.27940
+
+(using estimates) x: 490399355621 numerator: 15587499772 denominator: 55793561326 step: 6556437762
+ratio: ~ 0.27938
+
+(using estimates) x: 503512231145 numerator: 15992709882 denominator: 57248378228 step: 6722461300
+ratio: ~ 0.27936
+
+(using estimates) x: 516957153745 numerator: 16408503037 denominator: 58739085939 step: 6894926209
+ratio: ~ 0.27935
+
+(using estimates) x: 530747006163 numerator: 16834467174 denominator: 60267088523 step: 7070780173
+ratio: ~ 0.27933
+
+(using estimates) x: 544888566509 numerator: 17271218058 denominator: 61833080332 step: 7251791900
+ratio: ~ 0.27932
+
+(using estimates) x: 559392150309 numerator: 17718654821 denominator: 63438163678 step: 7436455606
+ratio: ~ 0.27931
+
+(using estimates) x: 574265061521 numerator: 18176980457 denominator: 65083101785 step: 7624820043
+ratio: ~ 0.27929
+
+(using estimates) x: 589514701607 numerator: 18646816582 denominator: 66768662178 step: 7818604150
+ratio: ~ 0.27927
+
+(using estimates) x: 605151909907 numerator: 19128269931 denominator: 68495976971 step: 8017102753
+ratio: ~ 0.27926
+
+(using estimates) x: 621186115413 numerator: 19621424760 denominator: 70266061333 step: 8219637707
+ratio: ~ 0.27924
+
+(using estimates) x: 637625390827 numerator: 20126909312 denominator: 72079726626 step: 8427910622
+ratio: ~ 0.27923
+
+(using estimates) x: 654481212071 numerator: 20644656965 denominator: 73938204050 step: 8640423810
+ratio: ~ 0.27922
+
+(using estimates) x: 671762059691 numerator: 21175315318 denominator: 75842373395 step: 8858887877
+ratio: ~ 0.27920
+
+(using estimates) x: 689479835445 numerator: 21719049521 denominator: 77793494037 step: 9082704047
+ratio: ~ 0.27919
+
+(using estimates) x: 707645243539 numerator: 22276142027 denominator: 79792666561 step: 9311901547
+ratio: ~ 0.27918
+
+(using estimates) x: 726269046633 numerator: 22846931389 denominator: 81841042990 step: 9546682566
+ratio: ~ 0.27916
+
+(using estimates) x: 745362411765 numerator: 23431334206 denominator: 83939766543 step: 9785570281
+ratio: ~ 0.27914
+
+(using estimates) x: 764933552327 numerator: 24030370779 denominator: 86089698701 step: 10031784415
+ratio: ~ 0.27913
+
+(using estimates) x: 784997121157 numerator: 24644282233 denominator: 88292388112 step: 10284740820
+ratio: ~ 0.27912
+
+(using estimates) x: 805566602797 numerator: 25273071054 denominator: 90549244084 step: 10543040132
+ratio: ~ 0.27911
+
+(using estimates) x: 826652683061 numerator: 25917037870 denominator: 92861371953 step: 10806779527
+ratio: ~ 0.27909
+
+(using estimates) x: 848266242115 numerator: 26576692796 denominator: 95229919290 step: 11076851894
+ratio: ~ 0.27908
+
+(using estimates) x: 870419945903 numerator: 27252410132 denominator: 97656187010 step: 11353453518
+ratio: ~ 0.27906
+
+(using estimates) x: 893126852939 numerator: 27944555302 denominator: 100141532658 step: 11636688550
+ratio: ~ 0.27905
+
+(using estimates) x: 916400230039 numerator: 28653519856 denominator: 102687354823 step: 11926724601
+ratio: ~ 0.27904
+
+(using estimates) x: 940253679241 numerator: 29379883727 denominator: 105295048553 step: 12224486355
+ratio: ~ 0.27902
+
+(using estimates) x: 964702651951 numerator: 30123915286 denominator: 107966235179 step: 12529425965
+ratio: ~ 0.27901
+
+(using estimates) x: 989761503881 numerator: 30885623071 denominator: 110702423925 step: 12840068359
+ratio: ~ 0.27900
+
+(using estimates) x: 1015441640599 numerator: 31666117461 denominator: 113504779467 step: 13159690377
+ratio: ~ 0.27898
+
+(using estimates) x: 1041761021353 numerator: 32465147609 denominator: 116375189339 step: 13485401097
+ratio: ~ 0.27897
+
+(using estimates) x: 1068731823547 numerator: 33283626731 denominator: 119314856078 step: 13819650846
+ratio: ~ 0.27896
+
+(using estimates) x: 1096371125239 numerator: 34121873376 denominator: 122325601611 step: 14161891893
+ratio: ~ 0.27894
+
+(using estimates) x: 1124694909025 numerator: 34980342649 denominator: 125409098602 step: 14512271994
+ratio: ~ 0.27893
+
+(using estimates) x: 1153719453013 numerator: 35859696502 denominator: 128566978111 step: 14871807897
+ratio: ~ 0.27892
+
+(using estimates) x: 1183463068807 numerator: 36760075151 denominator: 131801192855 step: 15239107749
+ratio: ~ 0.27891
+
+(using estimates) x: 1213941284305 numerator: 37682300448 denominator: 135113323285 step: 15615878507
+ratio: ~ 0.27889
+
+(using estimates) x: 1245173041319 numerator: 38626552967 denominator: 138505341115 step: 16000870753
+ratio: ~ 0.27888
+
+(using estimates) x: 1277174782825 numerator: 39593686283 denominator: 141978942150 step: 16395802982
+ratio: ~ 0.27887
+
+(using estimates) x: 1309966388789 numerator: 40583274004 denominator: 145536202055 step: 16796893961
+ratio: ~ 0.27885
+
+(using estimates) x: 1343560176711 numerator: 41597041453 denominator: 149178319583 step: 17209846229
+ratio: ~ 0.27884
+
+(using estimates) x: 1377979869169 numerator: 42635277249 denominator: 152907786027 step: 17633322969
+ratio: ~ 0.27883
+
+(using estimates) x: 1413246515107 numerator: 43698420541 denominator: 156726804071 step: 18066878093
+ratio: ~ 0.27882
+
+(using estimates) x: 1449380271293 numerator: 44786429956 denominator: 160637427980 step: 18508291844
+ratio: ~ 0.27880
+
+(using estimates) x: 1486396854981 numerator: 45900340054 denominator: 164641274901 step: 18960085315
+ratio: ~ 0.27879
+
+(using estimates) x: 1524317025611 numerator: 47040740458 denominator: 168740458119 step: 19422503713
+ratio: ~ 0.27878
+
+(using estimates) x: 1563162033037 numerator: 48208438905 denominator: 172937180712 step: 19896574908
+ratio: ~ 0.27876
+
+(using estimates) x: 1602955182853 numerator: 49403714938 denominator: 177233865639 step: 20380994113
+ratio: ~ 0.27875
+
+(using estimates) x: 1643717171079 numerator: 50627540655 denominator: 181632602343 step: 20877560277
+ratio: ~ 0.27874
+
+(using estimates) x: 1685472291633 numerator: 51880616797 denominator: 186135893940 step: 21386573248
+ratio: ~ 0.27872
+
+(using estimates) x: 1728245438129 numerator: 53163460875 denominator: 190746319724 step: 21907523776
+ratio: ~ 0.27871
+
+(using estimates) x: 1772060485681 numerator: 54476761420 denominator: 195466322155 step: 22440723525
+ratio: ~ 0.27870
+
+(using estimates) x: 1816941932731 numerator: 55820999800 denominator: 200298425188 step: 22985574012
+ratio: ~ 0.27869
+
+(using estimates) x: 1862913080755 numerator: 57197043689 denominator: 205245007715 step: 23543167041
+ratio: ~ 0.27868
+
+(using estimates) x: 1909999414837 numerator: 58605428276 denominator: 210308708940 step: 24113004164
+ratio: ~ 0.27866
+
+(using estimates) x: 1958225423165 numerator: 60047423064 denominator: 215491994469 step: 24697697787
+ratio: ~ 0.27865
+
+(using estimates) x: 2007620818739 numerator: 61523104154 denominator: 220797923839 step: 25294492777
+ratio: ~ 0.27864
+
+(using estimates) x: 2058209804293 numerator: 63033723633 denominator: 226228946146 step: 25905948386
+ratio: ~ 0.27863
+
+(using estimates) x: 2110021701065 numerator: 64579750639 denominator: 231788127965 step: 26530874591
+ratio: ~ 0.27862
+
+(using estimates) x: 2163083450247 numerator: 66162311981 denominator: 237478181218 step: 27171066706
+ratio: ~ 0.27860
+
+(using estimates) x: 2217425583659 numerator: 67782104612 denominator: 243302231235 step: 27826187213
+ratio: ~ 0.27859
+
+(using estimates) x: 2273077958085 numerator: 69439748215 denominator: 249263301773 step: 28495691087
+ratio: ~ 0.27858
+
+(using estimates) x: 2330069340259 numerator: 71136674026 denominator: 255364368900 step: 29182327204
+ratio: ~ 0.27857
+
+(using estimates) x: 2388433994667 numerator: 72872852878 denominator: 261608905554 step: 29882505958
+ratio: ~ 0.27856
+
+(using estimates) x: 2448199006583 numerator: 74649821099 denominator: 267999654757 step: 30599629639
+ratio: ~ 0.27854
+
+(using estimates) x: 2509398265861 numerator: 76468575474 denominator: 274540089807 step: 31334212089
+ratio: ~ 0.27853
+
+(using estimates) x: 2572066690039 numerator: 78329679525 denominator: 281233782175 step: 32084935925
+ratio: ~ 0.27852
+
+(using estimates) x: 2636236561889 numerator: 80234640505 denominator: 288084005034 step: 32854556986
+ratio: ~ 0.27851
+
+(using estimates) x: 2701945675861 numerator: 82183166626 denominator: 295094616648 step: 33638049856
+ratio: ~ 0.27850
+
+(using estimates) x: 2769221775573 numerator: 84177369934 denominator: 302268390657 step: 34441089079
+ratio: ~ 0.27849
+
+(using estimates) x: 2838103953731 numerator: 86218376206 denominator: 309609355585 step: 35264149239
+ratio: ~ 0.27847
+
+(using estimates) x: 2908632252209 numerator: 88306550964 denominator: 317121538835 step: 36104665021
+ratio: ~ 0.27846
+
+(using estimates) x: 2980841582251 numerator: 90443436011 denominator: 324808510217 step: 36965233827
+ratio: ~ 0.27845
+
+(using estimates) x: 3054772049905 numerator: 92629979926 denominator: 332674318572 step: 37845601132
+ratio: ~ 0.27844
+
+(using estimates) x: 3130463252169 numerator: 94867283060 denominator: 340722999986 step: 38746132254
+ratio: ~ 0.27843
+
+(using estimates) x: 3207955516677 numerator: 97156292275 denominator: 348958620546 step: 39666548554
+ratio: ~ 0.27842
+
+(using estimates) x: 3287288613785 numerator: 99498721522 denominator: 357385240848 step: 40609645240
+ratio: ~ 0.27841
+
+(using estimates) x: 3368507904265 numerator: 101894470497 denominator: 366007447525 step: 41570434463
+ratio: ~ 0.27839
+
+(using estimates) x: 3451648773191 numerator: 104346446903 denominator: 374828775778 step: 42557011834
+ratio: ~ 0.27838
+
+(using estimates) x: 3536762796859 numerator: 106854585720 denominator: 383854516086 step: 43563826794
+ratio: ~ 0.27837
+
+(using estimates) x: 3623890450447 numerator: 109420368470 denominator: 393088704143 step: 44592769737
+ratio: ~ 0.27836
+
+(using estimates) x: 3713075989921 numerator: 112045633716 denominator: 402535828361 step: 45646706503
+ratio: ~ 0.27835
+
+(using estimates) x: 3804369402927 numerator: 114731213758 denominator: 412200924563 step: 46723930469
+ratio: ~ 0.27834
+
+(using estimates) x: 3897817263865 numerator: 117478981630 denominator: 422088694262 step: 47827232258
+ratio: ~ 0.27833
+
+(using estimates) x: 3993471728381 numerator: 120289210939 denominator: 432204405371 step: 48952438385
+ratio: ~ 0.27832
+
+(using estimates) x: 4091376605151 numerator: 123164145193 denominator: 442552531770 step: 50104049002
+ratio: ~ 0.27830
+
+(using estimates) x: 4191584703155 numerator: 126105391976 denominator: 453138283858 step: 51283284046
+ratio: ~ 0.27829
+
+(using estimates) x: 4294151271247 numerator: 129113759139 denominator: 463967310164 step: 52487726392
+ratio: ~ 0.27828
+
+(using estimates) x: 4399126724031 numerator: 132191630378 denominator: 475044623272 step: 53721898240
+ratio: ~ 0.27827
+
+(using estimates) x: 4506570520511 numerator: 135339853783 denominator: 486376304471 step: 54983110661
+ratio: ~ 0.27826
+
+(using estimates) x: 4616536741833 numerator: 138559593193 denominator: 497967776765 step: 56270596007
+ratio: ~ 0.27825
+
+(using estimates) x: 4729077933847 numerator: 141852844010 denominator: 509824218699 step: 57587157341
+ratio: ~ 0.27824
+
+(using estimates) x: 4844252248529 numerator: 145221644176 denominator: 521951589262 step: 58934987442
+ratio: ~ 0.27823
+
+(using estimates) x: 4962122223413 numerator: 148667344155 denominator: 534356064425 step: 60313312195
+ratio: ~ 0.27822
+
+(using estimates) x: 5082748847803 numerator: 152191034370 denominator: 547043851702 step: 61720285778
+ratio: ~ 0.27821
+
+(using estimates) x: 5206189419359 numerator: 155795091730 denominator: 560020646109 step: 63159720811
+ratio: ~ 0.27820
+
+(using estimates) x: 5332508860981 numerator: 159481723691 denominator: 573292986822 step: 64633907942
+ratio: ~ 0.27819
+
+(using estimates) x: 5461776676865 numerator: 163251701237 denominator: 586867884572 step: 66138920376
+ratio: ~ 0.27817
+
+(using estimates) x: 5594054517617 numerator: 167106895817 denominator: 600751432763 step: 67676150505
+ratio: ~ 0.27816
+
+(using estimates) x: 5729406818627 numerator: 171050075400 denominator: 614950108361 step: 69250193239
+ratio: ~ 0.27815
+
+(using estimates) x: 5867907205105 numerator: 175082128219 denominator: 629471290602 step: 70857222274
+ratio: ~ 0.27814
+
+(using estimates) x: 6009621649653 numerator: 179206042580 denominator: 644321553951 step: 72502616369
+ratio: ~ 0.27813
+
+(using estimates) x: 6154626882391 numerator: 183422964245 denominator: 659508597200 step: 74183259780
+ratio: ~ 0.27812
+
+(using estimates) x: 6302993401951 numerator: 187735247967 denominator: 675039440731 step: 75901551137
+ratio: ~ 0.27811
+
+(using estimates) x: 6454796504225 numerator: 192145156193 denominator: 690921636414 step: 77658988358
+ratio: ~ 0.27810
+
+(using estimates) x: 6610114480941 numerator: 196654874367 denominator: 707162974945 step: 79456522523
+ratio: ~ 0.27809
+
+(using estimates) x: 6769027525987 numerator: 201266404093 denominator: 723771500145 step: 81294116227
+ratio: ~ 0.27808
+
+(using estimates) x: 6931615758441 numerator: 205981213942 denominator: 740755230406 step: 83169625362
+ratio: ~ 0.27807
+
+(using estimates) x: 7097955009165 numerator: 210802104974 denominator: 758121587845 step: 85086832051
+ratio: ~ 0.27806
+
+(using estimates) x: 7268128673267 numerator: 215731631096 denominator: 775878974006 step: 87047550378
+ratio: ~ 0.27805
+
+(using estimates) x: 7442223774023 numerator: 220772979084 denominator: 794036062894 step: 89055853442
+ratio: ~ 0.27804
+
+(using estimates) x: 7620335480907 numerator: 225926373630 denominator: 812602329675 step: 91103164845
+ratio: ~ 0.27803
+
+(using estimates) x: 7802541810597 numerator: 231195969992 denominator: 831585474249 step: 93198405719
+ratio: ~ 0.27802
+
+(using estimates) x: 7988938622035 numerator: 236583808672 denominator: 850995078728 step: 95340155960
+ratio: ~ 0.27801
+
+(using estimates) x: 8179618933955 numerator: 242092246319 denominator: 870840411996 step: 97528573280
+ratio: ~ 0.27800
+
+(using estimates) x: 8374676080515 numerator: 247724246065 denominator: 891130706405 step: 99766277855
+ratio: ~ 0.27799
+
+(using estimates) x: 8574208636225 numerator: 253481931289 denominator: 911875742119 step: 102051983037
+ratio: ~ 0.27798
+
+(using estimates) x: 8778312602299 numerator: 259368524197 denominator: 933085096901 step: 104388999887
+ratio: ~ 0.27797
+
+(using estimates) x: 8987090602073 numerator: 265385846556 denominator: 954768900715 step: 106774485509
+ratio: ~ 0.27796
+
+(using estimates) x: 9200639573091 numerator: 271537729686 denominator: 976936746083 step: 109214172661
+ratio: ~ 0.27795
+
+(using estimates) x: 9419067918413 numerator: 277826799129 denominator: 999599403291 step: 111707793225
+ratio: ~ 0.27794
+
+(using estimates) x: 9642483504863 numerator: 284255594539 denominator: 1022767584555 step: 114254793601
+ratio: ~ 0.27793
+
+(using estimates) x: 9870993092065 numerator: 290827608980 denominator: 1046451812579 step: 116858623341
+ratio: ~ 0.27792
+
+(using estimates) x: 10104710338747 numerator: 297545568739 denominator: 1070663348326 step: 119518926630
+ratio: ~ 0.27791
+
+(using estimates) x: 10343748192007 numerator: 304412576501 denominator: 1095413375493 step: 122236930511
+ratio: ~ 0.27790
+
+(using estimates) x: 10588222053029 numerator: 311432966965 denominator: 1120713238162 step: 125018629698
+ratio: ~ 0.27789
+
+(using estimates) x: 10838259312425 numerator: 318608261164 denominator: 1146575617230 step: 127857427426
+ratio: ~ 0.27788
+
+(using estimates) x: 11093974167277 numerator: 325942374958 denominator: 1173011737932 step: 130757761900
+ratio: ~ 0.27787
